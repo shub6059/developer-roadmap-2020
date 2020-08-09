@@ -1,6 +1,6 @@
-![Web Developer Roadmap - 2019](https://i.imgur.com/s5cCV9q.png)
+![Web Developer Roadmap - 2020](./images/in.png)
 
-> Roadmap to becoming a web developer in 2019
+> Roadmap to becoming a web developer in 2020
 
 [![](https://img.shields.io/badge/%E2%9D%A4-Detailed%20Content%20on%20the%20Website%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 
